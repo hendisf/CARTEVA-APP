@@ -9,7 +9,6 @@ CARTEVA merupakan aplikasi mobile yang dirancang untuk membantu pengelolaan pers
 ## Teknologi
 
 - Flutter
-- Dart
 - Supabase
 - Google Authentication
 
